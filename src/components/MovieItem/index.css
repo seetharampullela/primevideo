@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.image-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.movie-image {
+  width: 90%;
+}
+.popup-content {
+  background-color: white;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.close-button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  align-self: flex-end;
+}
